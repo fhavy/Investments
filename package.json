@@ -1,0 +1,26 @@
+{
+  "name": "Investment",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "bootstrap",
+    "HTMl",
+    "landing-page",
+    "investment",
+    "video"
+  ],
+  "author": "Ghabs",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
